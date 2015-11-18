@@ -1,0 +1,31 @@
+html, body
+{
+	background-color:black;
+	height: 98%;
+	width: 98%;
+	background-color: "black";
+	
+}
+
+
+h3 {color:white;
+	height: 15%;
+	user-select: none;
+	text-align: center;
+}
+
+
+#mySVGCanvas {
+	border: 0px solid #00f;
+	width: 800px;
+	height: 600px;
+	margin: auto;
+	background-image: url("http://www.kucuu.com/photo/566ad8792e6553a7967e73788deef107.jpg");
+	background-size: 800px 600px;
+	background-repeat: no-repeat;
+
+}
+
+
+
+
